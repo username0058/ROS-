@@ -1,0 +1,2 @@
+usb_cam
+-DCATKIN_DEVEL_PREFIX=/home/djr/ros_test_opencv/devel -DCMAKE_INSTALL_PREFIX=/home/djr/ros_test_opencv/install -G Unix Makefiles

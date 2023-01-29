@@ -1,0 +1,8 @@
+prefix=/home/djr/ros_test_opencv/install
+
+Name: usb_cam
+Description: Description of usb_cam
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

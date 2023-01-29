@@ -1,0 +1,9 @@
+/home/djr/ros_test_opencv/install/_setup_util.py
+/home/djr/ros_test_opencv/install/env.sh
+/home/djr/ros_test_opencv/install/setup.bash
+/home/djr/ros_test_opencv/install/local_setup.bash
+/home/djr/ros_test_opencv/install/setup.sh
+/home/djr/ros_test_opencv/install/local_setup.sh
+/home/djr/ros_test_opencv/install/setup.zsh
+/home/djr/ros_test_opencv/install/local_setup.zsh
+/home/djr/ros_test_opencv/install/.rosinstall
