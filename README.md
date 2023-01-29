@@ -9,3 +9,4 @@ C++，争取继续提高代码能力（记性太差了假期学的这些也还�
 4，imgpub.py与imgsub.py是网上的参考代码，我自己调试摄像头时候用的，编写另外两个作业.py文件过程中受到了古月居老师和这些资料和代码的启发。
 5，感谢各位学长在假期一直以来对我的帮助，让我新学到了挺多东西（例如opencv和python的简单应用，linux系统的简单操作，git的简单使用······），今后我会继续巩固复习假期所学，下一步打算是巩固
 python语法，详细学习C++的编写操作，照着git的课程学到更多git的用法，学习了解更多ros的实际应用等等。
+6,一些今后还要解决的问题：rosrun uvb_camera uvb_camera_node这句命令似乎不存在，类似的sudo apt-get install ros-neotic-image-*以及sudo apt-get install ros-neotic-rqt-image-view这些命令也无法在ros-neotic中运行，还没查到解决办法，这里用自写代码和rqt_image可视化模块却可以直接查看摄像头，试用rviz不成功。
